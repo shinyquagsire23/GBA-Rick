@@ -1,0 +1,28 @@
+
+//{{BLOCK(_3063)
+
+//======================================================================
+//
+//	_3063, 40x40@8, 
+//	+ palette 256 entries, not compressed
+//	+ 25 tiles lz77 compressed
+//	Total size: 512 + 1588 = 2100
+//
+//	Time-stamp: 2014-11-28, 05:19:58
+//	Exported by Cearn's GBA Image Transmogrifier, v0.8.12
+//	( http://www.coranac.com/projects/#grit )
+//
+//======================================================================
+
+#ifndef GRIT__3063_H
+#define GRIT__3063_H
+
+#define _3063TilesLen 1588
+extern const unsigned int _3063Tiles[397];
+
+#define _3063PalLen 512
+extern const unsigned short _3063Pal[256];
+
+#endif // GRIT__3063_H
+
+//}}BLOCK(_3063)
